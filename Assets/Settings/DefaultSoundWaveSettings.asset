@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7acdbb7cc2bc235429555f6dd6481446, type: 3}
+  m_Name: DefaultSoundWaveSettings
+  m_EditorClassIdentifier: 
+  VeryQuiet: {fileID: 11400000, guid: 4fe76dbf024582f43bf00b0b3502b485, type: 2}
+  Quiet: {fileID: 11400000, guid: 85dda3b3e913ed44c81367368ae6a6b7, type: 2}
+  Normal: {fileID: 11400000, guid: e5147c2e2771ba044951f6c5267567ac, type: 2}
+  Loud: {fileID: 11400000, guid: da54f67984de2d849b7333649e56c3ca, type: 2}
+  VeryLoud: {fileID: 11400000, guid: 4699457af2321d54ca9a772aee2d5c2e, type: 2}
+  GlobalSoundSpeed: 6

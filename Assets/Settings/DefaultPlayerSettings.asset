@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a3d972b08aef8a46a4cba10a83640bf, type: 3}
+  m_Name: DefaultPlayerSettings
+  m_EditorClassIdentifier: 
+  TiptoeForce: 13
+  WalkForce: 20
+  SprintForce: 30
+  WalkForceThreshold: 0.8
+  SprintForceThreshold: 0.9
+  NormalStampThreshold: 0.7
+  StampMaxChargeTime: 1
+  StampCooldownTime: 0.5
+  WalkToIdleTime: 1
+  TiptoeLoudness: 0
+  WalkLoudness: 1
+  SprintLoudness: 2
+  StampLightSoundProperties: {fileID: 11400000, guid: acb600549256238478432faec0a6f70a, type: 2}
+  StampNormalSoundProperties: {fileID: 11400000, guid: dae3e019ad94a844e882143d227407bf, type: 2}
+  StampLoudSoundProperties: {fileID: 11400000, guid: 92b2e5e71b2c62a4cb1dfd2690bf5a8b, type: 2}
+  TiptoeStepDistance: 0.7
+  WalkStepDistance: 1
+  SprintStepDistance: 1.3
